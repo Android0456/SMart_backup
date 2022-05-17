@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "smart-room-7262e",
+    "public": "build",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
